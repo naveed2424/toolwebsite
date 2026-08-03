@@ -1,0 +1,6 @@
+{
+  "name": "AITools Hub & Daily Tech Digest",
+  "description": "100+ Free Online AI & Utility Tools, Image/PDF Converters, Calculators, and Daily Trending Tech AI News with SEO Engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
